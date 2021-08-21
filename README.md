@@ -19,4 +19,5 @@
 <br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simrangupta234)
 <br />
-![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simrangupta234)
+![Simran's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simrangupta234)
+<br />
