@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/simrangupta234/simrangupta234/master/welcome.gif)
 
-# Hi there! 👋 I am Simran Gupta.
+# Hello there! 👋 I am Simran Gupta.
 
 - 👔 I'm pursuing my B. Tech in Computer Science from [GL Bajaj Group Of Institutions, mathura](https://www.glbajajgroup.org/).
 - 😄 I'm extremely interested in learning open source and contributions to it.
