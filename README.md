@@ -20,5 +20,4 @@
 <br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simrangupta234)
 <br />
-![Simran's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simrangupta234)
-<br />
+![Simran's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simrangupta234)
