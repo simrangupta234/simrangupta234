@@ -3,7 +3,7 @@
 # Hello there! 👋 I am Simran Gupta.
 
 - 👔 I'm pursuing my B. Tech in Computer Science from [GL Bajaj Group Of Institutions, mathura](https://www.glbajajgroup.org/).
-- 😄 I'm extremely interested in learning open source and contributions to it.
+- 😄 I'm extremely interested in learning open source and contributing to it.
 - 🔭 I’m currently working my personal portfolio.
 - 🌱 I’m currently learning DSA with [Kunal Kushwaha CommClassroom Bootcamp](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 - 🤝 I love to collaborate with new people and learn from them.
