@@ -9,10 +9,10 @@
 - 🤝 I love to collaborate with new people and learn from them.
 
 ### Connect with me 🤝🏻
-[![LinkedIn](https://raw.githubusercontent.com/simrangupta234/simrangupta234/master/linkedin.svg)](https://www.linkedin.com/in/simran-gupta123/)
+[![LinkedIn](https://raw.githubusercontent.com/simrangupta234/simrangupta234/master/linkedin.svg)](https://www.linkedin.com/in/simrangupta234)
 [![Twitter](https://raw.githubusercontent.com/simrangupta234/simrangupta234/master/twitter.svg)](https://twitter.com/simrangupta234)
 [![Gmail](https://raw.githubusercontent.com/simrangupta234/simrangupta234/master/gmail.svg)](mailto:simrangupta172002@gmail.com)
-[![Hashnode](https://raw.githubusercontent.com/simrangupta234/simrangupta234/master/hashnode.svg)](https://hashnode.com/@simran98)
+[![Hashnode](https://raw.githubusercontent.com/simrangupta234/simrangupta234/master/hashnode.svg)](https://hashnode.com/@simrangupta234)
 
 ![Simran's github stats](https://github-readme-stats.vercel.app/api?username=simrangupta234&show_icons=true&hide_border=true)
 <br />
