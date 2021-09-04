@@ -16,6 +16,7 @@
 
 ![Simran's github stats](https://github-readme-stats.vercel.app/api?username=simrangupta234&show_icons=true&hide_border=true)
 <br />
+![Simran's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=simrangupta234)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=simrangupta234.simrangupta234)
 <br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simrangupta234)
