@@ -13,7 +13,6 @@
 [![Gmail](https://raw.githubusercontent.com/simrangupta234/simrangupta234/master/gmail.svg)](mailto:simrangupta172002@gmail.com)
 [![Hashnode](https://raw.githubusercontent.com/simrangupta234/simrangupta234/master/hashnode.svg)](https://hashnode.com/@simrangupta234)
 
-
 ### Languages and Tools 👩🏻‍💻 
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,9 +25,10 @@
 ![](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
 
-</br>
+### Github Stats 📈
+<a href="https://github.com/simrangupta234/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simrangupta234&show_icons=true&include_all_commits=true" alt="Simran's github stats" /></a> 
 
-<a href="https://github.com/simrangupta234/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simrangupta234&show_icons=true&include_all_commits=true" alt="Simran's github stats" /></a>   <a href="https://github.com/simrangupta234/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrangupta234&layout=compact" /></a>
+<a href="https://github.com/simrangupta234/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrangupta234&layout=compact" /></a>
 
 ![Simran's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simrangupta234)
 
